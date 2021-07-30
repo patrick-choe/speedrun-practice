@@ -1,0 +1,9 @@
+name: $pluginName
+main: $pluginMain
+version: $version
+api-version: 1.16
+author: "BaeHyeonWoo & PatrickKR as HyeonTrick"
+authors: [BaeHyeonWoo, PatrickKR]
+libraries:
+  - io.github.monun:tap:4.1.2
+  - io.github.monun:kommand:2.4.1
